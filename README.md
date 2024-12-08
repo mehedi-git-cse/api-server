@@ -1,2 +1,2 @@
-# api-server
-This is express js project for API Handling 
+# mycontact-backend-api
+This is express js project for contact management
